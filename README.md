@@ -17,13 +17,15 @@ Bem-vindo ao jogo **A Jornada de Leo na Dungeon do Destino**! Um jogo interativo
 
 ## 📂 Estrutura do Projeto
 
-```
-📂 projeto
-├── 📄 index.html  # Página principal do jogo
-├── 📄 style.css   # Estilos visuais do jogo
-├── 📄 game.js     # Código JavaScript para a mecânica do jogo
-├── 🖼️ fase1.png  # Imagem de fundo da primeira fase
-```
+📂 projeto  
+├── 📄 `index.html`  # Página principal do jogo  
+├── 📄 `style.css`   # Estilos visuais do jogo  
+├── 📄 `game.js`     # Código JavaScript para a mecânica do jogo  
+├── 🖼️ `fases.png`  # Imagem de fundo das fases  
+
+## 👥 Contribuidores
+
+- **Pedro Augusto da Silva Macedo**: Desenvolveu a história do jogo e o fluxograma, cuidou do layout, fez o `style.css` e contribuiu com parte do `game.js`.
+- **Luiz Eduardo Souza Rocha**: Desenvolveu o código do `game.js` e a estrutura do `index.html`.
 
 Divirta-se na jornada! 🏹🔥
-
