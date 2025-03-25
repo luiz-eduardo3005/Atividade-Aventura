@@ -25,19 +25,5 @@ Bem-vindo ao jogo **A Jornada de Leo na Dungeon do Destino**! Um jogo interativo
 ├── 🖼️ fase1.png  # Imagem de fundo da primeira fase
 ```
 
-## 🚀 Como Executar Localmente
-
-1. Baixe ou clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
-   ```
-2. Abra o arquivo `index.html` em um navegador.
-
-## 📌 Melhorias Futuras
-
-- Adicionar mais fases e desafios.
-- Implementar sistema de inventário e habilidades.
-- Criar efeitos sonoros e trilha sonora.
-
 Divirta-se na jornada! 🏹🔥
 
