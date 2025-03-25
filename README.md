@@ -1,35 +1,43 @@
-# Jogo de Aventura na Dungeon
+# A Jornada de Leo na Dungeon do Destino
 
-## Introdução
+Bem-vindo ao jogo **A Jornada de Leo na Dungeon do Destino**! Um jogo interativo baseado em escolhas, onde você controla Leo, um jovem aventureiro explorando uma misteriosa dungeon cheia de desafios.
 
-Este jogo de aventura coloca o jogador no papel de um aventureiro que explora uma masmorra cheia de desafios, armadilhas e inimigos. O jogador deve tomar decisões estratégicas para avançar na história, enfrentando perigos e coletando recompensas ao longo do caminho.
+## 🎮 Como Jogar
 
-## Como Jogar
+1. Abra o arquivo `index.html` em seu navegador.
+2. Leia a narrativa e tome decisões clicando nos botões de escolha.
+3. Cada decisão pode levar a diferentes caminhos e resultados.
+4. Caso perca todas as vidas, clique em "Tentar Novamente" para recomeçar a aventura.
 
-O jogo é baseado em escolhas narrativas, onde o jogador decide entre diferentes ações para progredir na história. Cada escolha pode levar a diferentes consequências, incluindo desafios, tesouros ou até mesmo a morte do personagem.
+## 🛠️ Tecnologias Utilizadas
 
-## Mecânicas do Jogo
+- **HTML5**: Estrutura do jogo.
+- **CSS3**: Estilização e efeitos visuais.
+- **JavaScript (ES6+)**: Lógica do jogo e interatividade.
 
-- **Exploração**: O jogador avança por corredores e salas, descobrindo novos caminhos e desafios.
-- **Escolhas**: Decisões afetam diretamente o rumo da história, podendo levar a diferentes finais.
-- **Combate**: Enfrente inimigos como o Golem de Pedra, utilizando estratégia e itens encontrados na dungeon.
-- **Coleta de Itens**: O jogador pode encontrar armas encantadas, mapas, poções de cura e ouro.
-- **Armadilhas**: Algumas salas possuem armadilhas mortais, exigindo raciocínio para evitar perigos.
+## 📂 Estrutura do Projeto
 
-## História
+```
+📂 projeto
+├── 📄 index.html  # Página principal do jogo
+├── 📄 style.css   # Estilos visuais do jogo
+├── 📄 game.js     # Código JavaScript para a mecânica do jogo
+├── 🖼️ fase1.png  # Imagem de fundo da primeira fase
+```
 
-O aventureiro entra na dungeon e deve decidir entre explorar uma porta de ferro enferrujada ou seguir por um corredor escuro. Durante sua jornada, ele encontra desafios como armadilhas escondidas, criaturas perigosas e passagens secretas.
+## 🚀 Como Executar Localmente
 
-Em determinado momento, o jogador pode enfrentar um Golem de Pedra, um inimigo poderoso que protege um grande tesouro. Para derrotá-lo, o jogador deve usar uma espada encantada e tomar decisões estratégicas de ataque e defesa.
+1. Baixe ou clone este repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   ```
+2. Abra o arquivo `index.html` em um navegador.
 
-Após derrotar o Golem, o aventureiro encontra um baú cheio de ouro, encerrando sua jornada na masmorra. No entanto, no final da história, ele acorda percebendo que tudo não passou de um sonho.
+## 📌 Melhorias Futuras
 
-## Possíveis Desfechos
+- Adicionar mais fases e desafios.
+- Implementar sistema de inventário e habilidades.
+- Criar efeitos sonoros e trilha sonora.
 
-- **Morte Precoce**: Caso o jogador tome decisões erradas, pode cair em armadilhas ou ser derrotado pelo Golem.
-- **Vitória Completa**: O jogador derrota o Golem e leva o tesouro da dungeon.
-- **Fim Cômico**: Algumas ações repetitivas podem levar a um encerramento inesperado e humorístico.
+Divirta-se na jornada! 🏹🔥
 
-## Conclusão
-
-Este jogo oferece uma experiência imersiva de narrativa interativa, permitindo ao jogador explorar uma masmorra cheia de mistérios e perigos. Cada escolha molda o desenrolar da aventura, incentivando múltiplas jogadas para descobrir diferentes finais.
